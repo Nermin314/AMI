@@ -1,6 +1,6 @@
 # Dashboard AMI
 
-Very simple AMI Dashboard using Asterisk-AMI 
+Very simple AMI Dashboard using Asterisk-AMI with Semantic-UI
 
 It is real-time tracking of :
  - Active users
